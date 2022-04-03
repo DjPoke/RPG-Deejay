@@ -1,5 +1,5 @@
 ﻿; ====================================================================================================
-; RPG Deejay, Freeware open source par retro-bruno (c) 2018-2020
+; RPG Deejay, Freeware open source par retro-bruno (c) 2018-2022
 ; ====================================================================================================
 
 ; Nombre maximum de sons ou de dossiers de sons dans la liste de gauche
@@ -2263,8 +2263,7 @@ Procedure InsertProjectFilename(m1$)
   
 EndProcedure
 ; IDE Options = PureBasic 5.73 LTS (Windows - x64)
-; CursorPosition = 1440
-; FirstLine = 1420
+; CursorPosition = 1
 ; Folding = ---------
 ; EnableXP
 ; UseIcon = icones\icon.ico
