@@ -7,4 +7,6 @@ https://www.youtube.com/watch?v=NayWR1CDjCw
 Le logiciel est presque entièrement développé pour ce qui est de la base, et peut être éventuellement amélioré si je reçois de bonnes suggestions.
 Le fichier d'aide est encore en travaux.
 
+![Capture 1](captures/capture.jpg)
+
 Enjoy ;)
